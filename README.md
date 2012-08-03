@@ -1,0 +1,4 @@
+coolstranky
+===========
+
+Default repository
